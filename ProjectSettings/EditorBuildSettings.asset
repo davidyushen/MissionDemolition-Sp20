@@ -4,4 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Mission Demolition.unity
+    guid: fc287e039818d0440901070432d75860
+  m_configObjects: {}
